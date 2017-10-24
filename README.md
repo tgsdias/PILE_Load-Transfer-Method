@@ -4,6 +4,9 @@ The objective here is to model the mechanism of axial load distribution in piles
 1. A distinct unloading path is defined for the load-transfer functions
 1. The displacement variable is modified to consider the effects of passive soil displacements
 
+
+
+
 ![Scheme of Loads](/images/mechanism.svg)
 
 
